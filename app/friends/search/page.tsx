@@ -32,7 +32,7 @@ export default function FriendsSearchDeepLinkPage() {
     <main className="flex min-h-screen items-center justify-center bg-zinc-50 px-6 text-center text-zinc-700 dark:bg-black dark:text-zinc-300">
       <div>
         <p className="mb-2 text-lg font-semibold">Notes&apos;n&apos;Lives を開いています...</p>
-        <p className="text-sm">開かない場合は App Store に移動します。</p>
+        <p className="text-sm">開かない場合は下の vercel.app から「ブラウザで開く」を押してください。</p>
       </div>
     </main>
   );
