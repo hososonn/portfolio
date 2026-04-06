@@ -7,9 +7,6 @@
         "components": [
           {
             "/": "/friends/search*"
-          },
-          {
-            "/": "/invite*"
           }
         ]
       }
